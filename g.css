@@ -34,21 +34,19 @@ nav{
 }
 
 @media (max-width:600px) {
-    body{
-       width: 300px;
-    }
     *{
         padding: 0;
         margin: 0;
         box-sizing: border-box;
     }
     nav{
-        background-color: turquoise;
+      background-color: darkorange;
     }
     .q1{
         padding: 20px;
         width: 280px;
         margin: 0 auto;
+        background-color: turquoise;
     }
     .w1{
         transition:all 3s;
